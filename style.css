@@ -12,8 +12,8 @@ html {
 body {
   background-color: hsl(185, 75%, 39%);
   background-attachment: fixed;
-  background-image: url(/images/bg-pattern-top.svg),
-    url(/images/bg-pattern-bottom.svg);
+  background-image: url(./images/bg-pattern-top.svg),
+    url(./images/bg-pattern-bottom.svg);
 
   background-position: bottom 10rem left -18rem, top 21.4rem left 42.5rem;
   background-repeat: no-repeat, no-repeat;
@@ -27,7 +27,7 @@ body {
   margin-inline: auto;
   margin-block: 20vh;
   background-color: white;
-  background-image: url(/images/bg-pattern-card.svg);
+  background-image: url(./images/bg-pattern-card.svg);
   background-repeat: no-repeat;
   border-radius: 0.75em;
   max-width: 350px;
